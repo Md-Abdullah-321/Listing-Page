@@ -9,7 +9,7 @@ This application is designed to display a collection of men's dresses with searc
 ## 💻 Features
 
 - Browse and search for men's dresses.
-- Filter dresses by various criteria, such as size, color, and price range.
+- Filter dresses by various criteria.
 - View detailed dress information, including images, price, and description.
 - User-friendly and responsive design with styled-components for a beautiful UI.
 
