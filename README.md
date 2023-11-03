@@ -27,7 +27,7 @@ This application is designed to display a collection of men's dresses with searc
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <https://github.com/Md-Abdullah-321/Listing-Page.git>
+   git clone https://github.com/Md-Abdullah-321/Listing-Page.git
 
 2. cd Listing-Page
 3. use the command npm install to download server dependencies.
