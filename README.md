@@ -32,7 +32,7 @@ This application is designed to display a collection of men's dresses with searc
 2. cd Listing-Page
 3. use the command "npm install" to download server dependencies.
 4. "cd client" & "npm install" to download client/frontend dependencies.
-5. At root folder create a file named ".env" and paste "DATABASE_URL=mongodb+srv://abdullah:productlist@cluster0.acfqf9t.mongodb.net/ecommerce" and "PORT=300" on it.
+5. At root folder create a file named ".env" and paste "DATABASE_URL= your_mongodb_url" and "PORT=300" on it.
 6. Use "npm run dev" or "npm start" on root folder. it will start the server and will serve the client.
 7. open "http://localhost:3000" on browser. you will see the page live.
 
