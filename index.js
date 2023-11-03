@@ -1,3 +1,12 @@
+/*
+ * Title: Root Server File 
+ * Description: Handle All Root Server Related things
+ * Author: Md abdullah
+ * Date: 11/03/23
+ */
+
+
+
 const express = require('express');
 const path = require("path");
 const connectDB = require('./utils/db');
